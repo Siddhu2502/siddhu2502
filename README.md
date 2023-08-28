@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Siddharth and I'm a AI/ML & Backend Developer, from India</h2>
+<h2 align="left"> Myself Siddharth and I'm a AI/ML & Backend Developer, from India</h2>
 
 ###
 
