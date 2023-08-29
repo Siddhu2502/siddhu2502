@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Siddharth and I'm a AI/ML & Backend Developer, from India</h2>
+<h2 align="left"> Myself Siddharth and I'm a AI/ML & Backend Developer, from India</h2>
 
 ###
 
@@ -66,5 +66,11 @@
 
 ###
 
+<<<<<<< HEAD
 ![Snake animation](https://github.com/siddhu2502/siddhu2502/blob/output/github-contribution-grid-snake.svg)
 ###
+=======
+<!-- <img src="https://raw.githubusercontent.com/siddhu2502/siddhu2502/output/snake.svg" alt="Snake animation" /> -->
+
+###
+>>>>>>> 50a9c8710641223fdfe6dc8fce50db2a227ea7b0
