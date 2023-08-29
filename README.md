@@ -66,6 +66,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/siddhu2502/siddhu2502/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/siddhu2502/siddhu2502/output/snake.svg" alt="Snake animation" /> -->
 
 ###
